@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anand%20A%20N%20P%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Web&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anand%20Krishnan%20P%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Web&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Anand+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;JavaScript+%7C+Node+%7C+React+%7C+Next.js;Building+Real-Time+Apps+with+WebSockets;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+AnandaKrishnan_PM+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;JavaScript+%7C+Node+%7C+React+%7C+Next.js;Building+Real-Time+Apps+with+WebSockets;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=anandanpm&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views" />
 
@@ -14,11 +14,11 @@
 
 ```javascript
 const anand = {
-  name: "Anand A N P M",
+  name: "Anand Krishnan PM",
   role: "Full Stack Developer",
   location: "🌏 India",
   currentlyBuilding: "Real-time apps with WebSockets & ZegoCloud",
-  currentlyLearning: ["Advanced Next.js", "Supabase Edge Functions", "System Design"],
+  currentlyLearning: ["Advanced Next.js", "Advanced Vue.js", "System Design"],
   openToCollaborate: true,
   funFact: "I debug with console.log and I'm proud of it 😄",
   reachMe: "anandanpm@github",
