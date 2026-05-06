@@ -14,26 +14,168 @@
 
 <img align="right" width="360" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0d5e2d7571f9a20cb8948c6571b/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623031622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d77506f703130376c6f7a79655a3357523539396f3464764b51614756356f4c6372385841734950474e6632494f314e4f4c305549556c6c715a3239666d68533534663436.gif" />
 
-<br/>
+<svg width="100%" viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>About Me - Full Stack Developer</title>
+  <desc>Animated profile section for GitHub README</desc>
 
-🚀 &nbsp; I'm a passionate **Full Stack Developer** from **India** who loves turning ideas into real, scalable products.
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&amp;family=Inter:wght@400;500;600&amp;display=swap');
 
-⚡ &nbsp; I specialize in building **real-time web applications** using **WebSockets** and **ZegoCloud** for seamless live experiences.
+      .card-bg { fill: #0d1117; }
+      .card-border { fill: none; stroke: #30363d; stroke-width: 1; }
+      .dot-r { fill: #ff5f57; }
+      .dot-y { fill: #febc2e; }
+      .dot-g { fill: #28c840; }
+      .bar-bg { fill: #161b22; }
+      .bar-title { font-family: 'Fira Code', monospace; font-size: 12px; fill: #8b949e; }
+      .line { font-family: 'Fira Code', monospace; font-size: 13.5px; fill: #c9d1d9; }
+      .em { fill: #79c0ff; font-weight: 500; }
+      .kw { fill: #d2a8ff; }
+      .str { fill: #a5d6ff; }
+      .hl { fill: #ffa657; }
+      .muted { fill: #8b949e; }
+      .cursor { fill: #58a6ff; }
 
-🌱 &nbsp; Currently leveling up in **Next.js**, **Supabase Edge Functions**, and **System Design** to architect better, faster apps.
+      .row1 { animation: fadeSlide 0.5s ease forwards; animation-delay: 0.2s; opacity: 0; }
+      .row2 { animation: fadeSlide 0.5s ease forwards; animation-delay: 0.55s; opacity: 0; }
+      .row3 { animation: fadeSlide 0.5s ease forwards; animation-delay: 0.9s; opacity: 0; }
+      .row4 { animation: fadeSlide 0.5s ease forwards; animation-delay: 1.25s; opacity: 0; }
+      .row5 { animation: fadeSlide 0.5s ease forwards; animation-delay: 1.6s; opacity: 0; }
+      .row6 { animation: fadeSlide 0.5s ease forwards; animation-delay: 1.95s; opacity: 0; }
+      .row7 { animation: fadeSlide 0.5s ease forwards; animation-delay: 2.3s; opacity: 0; }
+      .cur  { animation: fadeSlide 0.5s ease forwards, blink 1s step-end infinite; animation-delay: 2.5s, 2.5s; opacity: 0; }
 
-🤝 &nbsp; Always **open to collaborate** on interesting projects — especially ones that push the limits of the web.
+      @keyframes fadeSlide {
+        from { opacity: 0; transform: translateX(-14px); }
+        to   { opacity: 1; transform: translateX(0); }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0; }
+      }
+    </style>
 
-💡 &nbsp; I believe great software is born from **curiosity**, **clean code**, and a lot of ☕ coffee.
+    <clipPath id="card-clip">
+      <rect x="1" y="1" width="698" height="418" rx="10" ry="10"/>
+    </clipPath>
+  </defs>
 
-🎯 &nbsp; My goal: **Build products that people love to use.**
+  <!-- Card background -->
+  <rect x="0" y="0" width="700" height="420" rx="10" ry="10" class="card-bg"/>
+  <rect x="0" y="0" width="700" height="420" rx="10" ry="10" class="card-border"/>
 
-<br/>
+  <!-- Title bar -->
+  <rect x="0" y="0" width="700" height="38" rx="10" ry="10" class="bar-bg"/>
+  <rect x="0" y="20" width="700" height="18" class="bar-bg"/>
+  <circle cx="20" cy="19" r="5.5" class="dot-r"/>
+  <circle cx="37" cy="19" r="5.5" class="dot-y"/>
+  <circle cx="54" cy="19" r="5.5" class="dot-g"/>
+  <text x="350" y="23" text-anchor="middle" class="bar-title">~/about-me/README.md</text>
+
+  <!-- Divider line -->
+  <line x1="0" y1="38" x2="700" y2="38" stroke="#30363d" stroke-width="0.5"/>
+
+  <!-- Line 1 -->
+  <g class="row1">
+    <text x="28" y="76" class="line">
+      <tspan>🚀  </tspan>
+      <tspan class="muted">I'm a</tspan>
+      <tspan class="em"> passionate </tspan>
+      <tspan class="kw">Full Stack Developer</tspan>
+      <tspan class="muted"> from </tspan>
+      <tspan class="hl">India</tspan>
+      <tspan class="muted"> who</tspan>
+    </text>
+    <text x="28" y="94" class="line">
+      <tspan class="muted">    loves turning ideas into</tspan>
+      <tspan class="str"> real, scalable products.</tspan>
+    </text>
+  </g>
+
+  <!-- Line 2 -->
+  <g class="row2">
+    <text x="28" y="130" class="line">
+      <tspan>⚡  </tspan>
+      <tspan class="muted">I specialize in</tspan>
+      <tspan class="em"> real-time web apps</tspan>
+      <tspan class="muted"> using</tspan>
+    </text>
+    <text x="28" y="148" class="line">
+      <tspan class="kw">    WebSockets</tspan>
+      <tspan class="muted"> &amp;</tspan>
+      <tspan class="kw"> ZegoCloud</tspan>
+      <tspan class="muted"> for seamless live experiences.</tspan>
+    </text>
+  </g>
+
+  <!-- Line 3 -->
+  <g class="row3">
+    <text x="28" y="184" class="line">
+      <tspan>🌱  </tspan>
+      <tspan class="muted">Currently leveling up in</tspan>
+      <tspan class="hl"> Next.js</tspan>
+      <tspan class="muted">,</tspan>
+    </text>
+    <text x="28" y="202" class="line">
+      <tspan class="hl">    Supabase Edge Functions</tspan>
+      <tspan class="muted">, and</tspan>
+      <tspan class="em"> System Design.</tspan>
+    </text>
+  </g>
+
+  <!-- Line 4 -->
+  <g class="row4">
+    <text x="28" y="238" class="line">
+      <tspan>🤝  </tspan>
+      <tspan class="muted">Always</tspan>
+      <tspan class="em"> open to collaborate</tspan>
+      <tspan class="muted"> on interesting projects —</tspan>
+    </text>
+    <text x="28" y="256" class="line">
+      <tspan class="muted">    especially ones that</tspan>
+      <tspan class="str"> push the limits of the web.</tspan>
+    </text>
+  </g>
+
+  <!-- Line 5 -->
+  <g class="row5">
+    <text x="28" y="292" class="line">
+      <tspan>💡  </tspan>
+      <tspan class="muted">Great software is born from</tspan>
+      <tspan class="kw"> curiosity</tspan>
+      <tspan class="muted">,</tspan>
+    </text>
+    <text x="28" y="310" class="line">
+      <tspan class="kw">    clean code</tspan>
+      <tspan class="muted">, and a lot of ☕ coffee.</tspan>
+    </text>
+  </g>
+
+  <!-- Line 6 (goal) -->
+  <g class="row6">
+    <text x="28" y="350" class="line">
+      <tspan>🎯  </tspan>
+      <tspan class="muted">My goal:</tspan>
+    </text>
+    <text x="28" y="368" class="line">
+      <tspan class="str">    </tspan>
+      <tspan class="em">"Build products that people</tspan>
+      <tspan class="hl"> love</tspan>
+      <tspan class="em"> to use."</tspan>
+    </text>
+  </g>
+
+  <!-- Blinking cursor -->
+  <g class="cur">
+    <rect x="28" y="386" width="8" height="14" rx="1" class="cursor"/>
+  </g>
+</svg>
 
 <div align="left">
 
-![Currently Working](https://img.shields.io/badge/🔭%20Building-Real--time%20Video%20Apps-0D1117?style=for-the-badge&labelColor=00D9FF&color=0D1117)
-![Learning](https://img.shields.io/badge/🌱%20Learning-Supabase%20%2B%20Next.js-0D1117?style=for-the-badge&labelColor=7C3AED&color=0D1117)
+![Currently Working](https://img.shields.io/badge/🔭%20Building-ERP-next%20Apps-0D1117?style=for-the-badge&labelColor=00D9FF&color=0D1117)
+![Learning](https://img.shields.io/badge/🌱%20Learning-Vue.js%20%2B%20Next.js-0D1117?style=for-the-badge&labelColor=7C3AED&color=0D1117)
 ![Open to Work](https://img.shields.io/badge/💼%20Open%20To-Collaborate-0D1117?style=for-the-badge&labelColor=22C55E&color=0D1117)
 ![Location](https://img.shields.io/badge/📍%20Based%20In-India-0D1117?style=for-the-badge&labelColor=F97316&color=0D1117)
 
@@ -112,7 +254,7 @@
 
 | 🔭 Working On | 🌱 Learning | 💬 Ask Me About | ⚡ Fun Fact |
 |:---:|:---:|:---:|:---:|
-| Real-time Video Apps | Supabase + Next.js | Full Stack Dev | I turn coffee into code ☕ |
+| ErpNext | Vue.js + Next.js | Full Stack Dev | I turn coffee into code ☕ |
 
 </div>
 
@@ -124,16 +266,18 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anandanpm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandanpm)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anandanpm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-eight-ruddy-39.vercel.app/)
 
 </div>
 
----
-
-## 🐍 Contribution Snake
 
 <div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/anandanpm/anandanpm/output/dist/metrics.svg">
+<img src="https://raw.githubusercontent.com/anandanpm/anandanpm/output/dist/metrics.svg">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anandanpm/anandanpm/output/github-contribution-grid-snake-dark.svg">
