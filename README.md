@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anand%20Krishnan%20P%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Web&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anand%20A%20N%20P%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Web&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+AnandaKrishnan_PM+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;JavaScript+%7C+Node+%7C+React+%7C+Next.js;Building+Real-Time+Apps+with+WebSockets;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Anand+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;JavaScript+%7C+Node+%7C+React+%7C+Next.js;Building+Real-Time+Apps+with+WebSockets;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=anandanpm&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views" />
 
@@ -12,19 +12,34 @@
 
 ## 🌌 About Me
 
-```javascript
-const anand = {
-  name: "Anand Krishnan PM",
-  role: "Full Stack Developer",
-  location: "🌏 India",
-  currentlyBuilding: "Real-time apps with WebSockets & ZegoCloud",
-  currentlyLearning: ["Advanced Next.js", "Advanced Vue.js", "System Design"],
-  openToCollaborate: true,
-  funFact: "I debug with console.log and I'm proud of it 😄",
-  reachMe: "anandanpm@github",
-  portfolio: "Coming Soon 🚀"
-};
-```
+<img align="right" width="360" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0d5e2d7571f9a20cb8948c6571b/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623031622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d77506f703130376c6f7a79655a3357523539396f3464764b51614756356f4c6372385841734950474e6632494f314e4f4c305549556c6c715a3239666d68533534663436.gif" />
+
+<br/>
+
+🚀 &nbsp; I'm a passionate **Full Stack Developer** from **India** who loves turning ideas into real, scalable products.
+
+⚡ &nbsp; I specialize in building **real-time web applications** using **WebSockets** and **ZegoCloud** for seamless live experiences.
+
+🌱 &nbsp; Currently leveling up in **Next.js**, **Supabase Edge Functions**, and **System Design** to architect better, faster apps.
+
+🤝 &nbsp; Always **open to collaborate** on interesting projects — especially ones that push the limits of the web.
+
+💡 &nbsp; I believe great software is born from **curiosity**, **clean code**, and a lot of ☕ coffee.
+
+🎯 &nbsp; My goal: **Build products that people love to use.**
+
+<br/>
+
+<div align="left">
+
+![Currently Working](https://img.shields.io/badge/🔭%20Building-Real--time%20Video%20Apps-0D1117?style=for-the-badge&labelColor=00D9FF&color=0D1117)
+![Learning](https://img.shields.io/badge/🌱%20Learning-Supabase%20%2B%20Next.js-0D1117?style=for-the-badge&labelColor=7C3AED&color=0D1117)
+![Open to Work](https://img.shields.io/badge/💼%20Open%20To-Collaborate-0D1117?style=for-the-badge&labelColor=22C55E&color=0D1117)
+![Location](https://img.shields.io/badge/📍%20Based%20In-India-0D1117?style=for-the-badge&labelColor=F97316&color=0D1117)
+
+</div>
+
+<br clear="right"/>
 
 ---
 
