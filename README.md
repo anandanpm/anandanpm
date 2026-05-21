@@ -73,6 +73,35 @@
 
 ---
 
+## 🎥 Featured Project: Shader Animation
+
+<div align="center">
+
+<a href="https://your-live-demo-link.vercel.app" target="_blank">
+  <img src="https://via.placeholder.com/800x400/0D1117/00D9FF?text=Shader+Animation+Demo+%F0%9F%8E%A8" 
+       alt="Shader Animation Demo" 
+       style="border-radius: 12px; border: 1px solid #00D9FF; width: 100%; max-width: 800px;" />
+</a>
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/Built%20With-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<br/>
+<br/>
+
+<p style="color: #aaa; font-size: 0.9rem;">
+  A mesmerizing real‑time shader animation built with <strong>Three.js</strong> and <strong>React</strong>. 
+  Click the image to explore the live demo.
+</p>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
