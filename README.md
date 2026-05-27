@@ -12,7 +12,7 @@
 
 ## 🌌 About Me
 
-<img align="right" width="360" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0d5e2d7571f9a20cb8948c6571b/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623031622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d77506f703130376c6f7a79655a3357523539396f3464764b51614756356f4c6372385841734950474e6632494f314e4f4c305549556c6c715a3239666d68533534663436.gif" />
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <br/>
 
@@ -67,25 +67,6 @@
 ### 🧰 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" />
-</p>
-
-</div>
-
----
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/Built%20With-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
-<br/>
-<br/>
-
-<p style="color: #aaa; font-size: 0.9rem;">
-  A mesmerizing real‑time shader animation built with <strong>Three.js</strong> and <strong>React</strong>. 
-  Click the image to explore the live demo.
 </p>
 
 </div>
