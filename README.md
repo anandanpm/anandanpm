@@ -73,16 +73,6 @@
 
 ---
 
-## 🎥 Featured Project: Shader Animation
-
-<div align="center">
-
-<a href="https://your-live-demo-link.vercel.app" target="_blank">
-  <img src="https://placehold.co/800x400/0D1117/00D9FF?text=Shader+Animation+Demo" 
-       alt="Shader Animation Demo" 
-       style="border-radius: 12px; border: 1px solid #00D9FF; width: 100%; max-width: 800px;" />
-</a>
-
 <br/>
 <br/>
 
