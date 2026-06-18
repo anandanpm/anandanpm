@@ -16,11 +16,7 @@
 
 ---
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ## 🌌 &nbsp; About Me
-
-<br/>
 
 🚀 &nbsp; Passionate **Full Stack Developer** from **India** crafting scalable, real-world products.
 
@@ -40,8 +36,6 @@
 ![Learning](https://img.shields.io/badge/🌱%20Learning-Vue.js%20%2B%20Next.js-0D1117?style=for-the-badge&labelColor=7C3AED&color=0D1117)
 ![Collaborate](https://img.shields.io/badge/💼%20Open%20To-Collaborate-0D1117?style=for-the-badge&labelColor=22C55E&color=0D1117)
 ![Location](https://img.shields.io/badge/📍%20Based%20In-India-0D1117?style=for-the-badge&labelColor=F97316&color=0D1117)
-
-<br clear="right"/>
 
 ---
 
