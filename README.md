@@ -90,19 +90,6 @@
 
 ---
 
-## 📊 &nbsp; GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anandanpm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=a78bfa&text_color=ffffff&rank_icon=github&include_all_commits=true&cache_seconds=1800" alt="Ananda's GitHub Stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=anandanpm&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=a78bfa&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandanpm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&card_width=400&cache_seconds=1800" alt="Top Languages" />
-
-</div>
-
----
-
 ## 📈 &nbsp; Contribution Activity
 
 <div align="center">
