@@ -90,16 +90,6 @@
 
 ---
 
-## 🧬 &nbsp; GitHub Metrics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/anandanpm/anandanpm/main/github-metrics.svg" width="100%" alt="GitHub Metrics" />
-
-</div>
-
----
-
 ## 📈 &nbsp; Contribution Activity
 
 <div align="center">
