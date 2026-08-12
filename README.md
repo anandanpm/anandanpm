@@ -90,11 +90,31 @@
 
 ---
 
+## 🧬 &nbsp; GitHub Metrics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/anandanpm/anandanpm/main/github-metrics.svg" width="100%" alt="GitHub Metrics" />
+
+</div>
+
+---
+
 ## 📈 &nbsp; Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandanpm&bg_color=0D1117&color=00D9FF&line=a78bfa&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true&radius=6" width="100%" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 🧊 &nbsp; 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/anandanpm/anandanpm/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
 
 </div>
 
